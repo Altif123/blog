@@ -1,10 +1,12 @@
 <?php
 
-namespace Database\Seeders;
+//namespace Database\Seeders;
 
 
+//use HotelSeeder;
+use Database\Seeders\HotelSeeder;
 use Illuminate\Database\Seeder;
-use Illuminate\Database\Eloquent\Model;
+
 
 class DatabaseSeeder extends Seeder
 {
