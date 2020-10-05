@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ead42e90-9de9-4686-a959-1ed9765eaf78" name="Default Changelist" comment="Initial commit - set up auth">
-      <change afterPath="$PROJECT_DIR$/resources/views/rooms/index.blade.php" afterDir="false" />
+    <list default="true" id="ead42e90-9de9-4686-a959-1ed9765eaf78" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/HotelSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/HotelSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -319,12 +314,20 @@
       <workItem from="1601119737940" duration="2201000" />
       <workItem from="1601228607376" duration="10933000" />
       <workItem from="1601317254711" duration="3037000" />
-      <workItem from="1601824879429" duration="21054000" />
+      <workItem from="1601824879429" duration="21441000" />
     </task>
+    <task id="LOCAL-00001" summary="Seeded DB,Added rooms controller">
+      <created>1601919125031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601919125033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37225000" />
+    <option name="totallyTimeSpent" value="37612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -375,6 +378,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seeded DB,Added rooms controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seeded DB,Added rooms controller" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server.php">
